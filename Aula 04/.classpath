@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="F:/Bru Santicioli/Sistemas de Informação/3º Ano/Arquitetura e Desenvolvimento de Sistemas - ARQDESIS/Aula 02 - Testes Unitários com JUnit/Exercício/Driver JDBC MySQL.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
